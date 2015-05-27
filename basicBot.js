@@ -224,14 +224,14 @@
                 ["mix", "You played a mix, which is against the rules. "],
                 ["sound", "The song you played had bad sound quality or no sound. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
-                ["unavailable", "The song you played was not available for some users. "]
+                ["unavailable", "The song you played was not available for some users. "],
                 ["rdm", "Just a Random  Skip from an Admin"]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Bot in beta mode",
+            motd: "Im here for anyone :)",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
