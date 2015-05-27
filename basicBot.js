@@ -208,8 +208,8 @@
             maximumLocktime: 10,
             cycleGuard: true,
             maximumCycletime: 10,
-            voteSkip: false,
-            voteSkipLimit: 10,
+            voteSkip: true,
+            voteSkipLimit: 5,
             historySkip: true,
             timeGuard: true,
             maximumSongLength: 10,
@@ -225,7 +225,6 @@
                 ["sound", "The song you played had bad sound quality or no sound. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
                 ["unavailable", "The song you played was not available for some users. "],
-                ["rdm", "Just a Random  Skip from an Admin"]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
