@@ -174,7 +174,7 @@
         return m;
     };
 
-    var botCreator = "Matthew (spacesven)";
+    var botCreator = "Matthew (Yemasthui)";
     var botMaintainer = "Benzi (Quoona)"
     var botCreatorIDs = ["3851534", "4105209"];
 
@@ -258,7 +258,7 @@
             usercommand: true,
             allcommand: true,
             afkInterval: null,
-            autoskip: true,
+            autoskip: false,
             autoskipTimer: null,
             autodisableInterval: null,
             autodisableFunc: function () {
