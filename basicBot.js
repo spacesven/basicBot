@@ -225,6 +225,7 @@
                 ["sound", "The song you played had bad sound quality or no sound. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
                 ["unavailable", "The song you played was not available for some users. "]
+                ["rdm", "Just a Random  Skip from an Admin"]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
@@ -242,7 +243,7 @@
             website: null,
             intervalMessages: [],
             messageInterval: 5,
-            songstats: true,
+            songstats: false,
             commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/spacesven/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
