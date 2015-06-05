@@ -181,7 +181,7 @@
     var basicBot = {
         version: "2.4.5-edited_by_spacesven",
         status: false,
-        name: "Miku-Chan",
+        name: "TACO BOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/spacesven/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
