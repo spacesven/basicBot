@@ -191,7 +191,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Miku-Chan",
+            botName: "TACO BOT",
             language: "english",
             chatLink: "https://rawgit.com/spacesven/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
