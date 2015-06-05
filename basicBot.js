@@ -181,7 +181,7 @@
     var basicBot = {
         version: "2.4.5-edited_by_spacesven",
         status: false,
-        name: "TACO BOT",
+        name: "Miku-Chan",
         loggedInID: null,
         scriptLink: "https://rawgit.com/spacesven/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -191,7 +191,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "TACO BOT",
+            botName: "Miku-Chan",
             language: "english",
             chatLink: "https://rawgit.com/spacesven/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
